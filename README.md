@@ -5,7 +5,7 @@ rust-actix-101
 
 ## Codespace Issue
 
-* Running this in a GitHub Codespace can lead to High CPU Usage warnings.
+* Running **make all** in a GitHub Codespace can lead to High CPU Usage warnings.
 
 ## Usage
 
