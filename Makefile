@@ -10,8 +10,7 @@ format:
 	cargo fmt --quiet
 
 lint:
-	# cargo clippy --quiet
-	echo "skipping lint for now"
+	cargo clippy --quiet
 
 test:
 	cargo test --quiet

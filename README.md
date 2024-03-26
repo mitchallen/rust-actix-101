@@ -3,6 +3,9 @@ rust-actix-101
 
 [![Actions Status](https://github.com/mitchallen/rust-actix-101/workflows/Rust%20Test/badge.svg)](https://github.com/mitchallen/rust-actix-101/actions)
 
+## Codespace Issue
+
+* Running this in a GitHub Codespace can lead to High CPU Usage warnings.
 
 ## Usage
 
